@@ -11,8 +11,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/car-sharing-config-service" />
-            <option value="$PROJECT_DIR$/car-sharing-reservation-service" />
+            <option value="$PROJECT_DIR$/carsharing-config-service" />
+            <option value="$PROJECT_DIR$/carsharing-eureka-service" />
+            <option value="$PROJECT_DIR$/carsharing-reservation-client" />
+            <option value="$PROJECT_DIR$/carsharing-reservation-service" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />

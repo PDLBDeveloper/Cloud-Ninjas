@@ -1,4 +1,6 @@
 rootProject.name = 'mhp-cloud-ninjas'
 
-include "car-sharing-config-service"
-include "car-sharing-reservation-service"
+include "carsharing-config-service"
+include "carsharing-reservation-service"
+include "carsharing-eureka-service"
+include "carsharing-reservation-client"

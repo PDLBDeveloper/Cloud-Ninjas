@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-starter-zipkin:1.2.0.RC1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-zipkin/1.2.0.RC1/2b53c5495ae921f50f759f435836a84de435bb15/spring-cloud-starter-zipkin-1.2.0.RC1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-zipkin/1.2.0.RC1/7a2141e0ad4f7fc3c0e49e6c5d362ebcfa0e1963/spring-cloud-starter-zipkin-1.2.0.RC1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

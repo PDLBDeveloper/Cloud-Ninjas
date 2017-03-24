@@ -10,6 +10,14 @@
       <module name="car-sharing-reservation-service_test" target="1.8" />
       <module name="car-sharing-reservation_main" target="1.8" />
       <module name="car-sharing-reservation_test" target="1.8" />
+      <module name="carsharing-config-service_main" target="1.8" />
+      <module name="carsharing-config-service_test" target="1.8" />
+      <module name="carsharing-eureka-service_main" target="1.8" />
+      <module name="carsharing-eureka-service_test" target="1.8" />
+      <module name="carsharing-reservation-client_main" target="1.8" />
+      <module name="carsharing-reservation-client_test" target="1.8" />
+      <module name="carsharing-reservation-service_main" target="1.8" />
+      <module name="carsharing-reservation-service_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
