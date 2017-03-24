@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-stream-binder-rabbit:1.1.3.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream-binder-rabbit/1.1.3.RELEASE/bd3c055f76b91d74b9893506e0f70a7410e5b4ee/spring-cloud-stream-binder-rabbit-1.1.3.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream-binder-rabbit/1.1.3.RELEASE/2b912cf4965cc5ffc1b08c655785c76c7c953732/spring-cloud-stream-binder-rabbit-1.1.3.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

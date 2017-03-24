@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="car-sharing-config-server_main" target="1.8" />
+      <module name="car-sharing-config-server_test" target="1.8" />
+      <module name="car-sharing-config-service_main" target="1.8" />
+      <module name="car-sharing-config-service_test" target="1.8" />
+      <module name="car-sharing-reservation-service_main" target="1.8" />
+      <module name="car-sharing-reservation-service_test" target="1.8" />
+      <module name="car-sharing-reservation_main" target="1.8" />
+      <module name="car-sharing-reservation_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
