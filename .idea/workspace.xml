@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e84e8c6-473c-4b1f-aa66-95807a7cbb84" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.0/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/3.0/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.0/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.0/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.0/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.0/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.0/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/3.0/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.0/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.0/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/carsharing-reservation-client/src/main/java/de/mhp/CarsharingReservationClientApplication.java" afterPath="$PROJECT_DIR$/carsharing-reservation-client/src/main/java/de/mhp/CarsharingReservationClientApplication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/carsharing-reservation-service/src/main/java/de/mhp/MicroserviceApplication.java" afterPath="$PROJECT_DIR$/carsharing-reservation-service/src/main/java/de/mhp/MicroserviceApplication.java" />
     </list>
     <ignored path="$PROJECT_DIR$/car-sharing-config-server/.gradle/" />
     <ignored path="$PROJECT_DIR$/car-sharing-config-server/build/" />
@@ -3063,12 +3056,12 @@
       <workItem from="1490111689027" duration="50000" />
       <workItem from="1490111775058" duration="13000" />
       <workItem from="1490118678529" duration="3105000" />
-      <workItem from="1490122115812" duration="19841000" />
+      <workItem from="1490122115812" duration="20075000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23009000" />
+    <option name="totallyTimeSpent" value="23243000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="750" extended-state="6" />
