@@ -1,6 +1,6 @@
-rootProject.name = 'mhp-cloud-ninjas'
+rootProject.name = 'pag-cloud-ninjas'
 
-include "carsharing-config-service"
-include "carsharing-reservation-service"
-include "carsharing-eureka-service"
-include "carsharing-reservation-client"
+include "product-config-service"
+include "product-registry-service"
+include "product-eureka-service"
+include "product-registry-client"
